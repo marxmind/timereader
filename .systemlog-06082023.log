@@ -1,0 +1,57 @@
+06-08-2023 04:15:14 pm INFO: checking for new added data
+06-08-2023 04:15:14 pm INFO: added new Data 
+06-08-2023 04:15:14 pm INFO: ===========================START=========================
+06-08-2023 04:15:14 pm INFO: inserting data into table timerec
+06-08-2023 04:15:14 pm INFO: id: 7272
+06-08-2023 04:15:14 pm INFO: 8
+06-08-2023 04:15:14 pm INFO: 6
+06-08-2023 04:15:14 pm INFO: 2023
+06-08-2023 04:15:14 pm INFO: 0
+06-08-2023 04:15:14 pm INFO: 0
+06-08-2023 04:15:14 pm INFO: 16:15
+06-08-2023 04:15:14 pm INFO: null
+06-08-2023 04:15:14 pm INFO: 17
+06-08-2023 04:15:14 pm INFO: 1
+06-08-2023 04:15:14 pm INFO: .jpeg
+06-08-2023 04:15:14 pm INFO: executing for saving...
+06-08-2023 04:15:14 pm INFO: closing...
+06-08-2023 04:15:14 pm INFO: data has been successfully saved...
+06-08-2023 04:15:14 pm INFO: ===========================END=========================
+06-08-2023 04:16:00 pm INFO: checking for new added data
+06-08-2023 04:16:00 pm INFO: added new Data 
+06-08-2023 04:16:00 pm INFO: ===========================START=========================
+06-08-2023 04:16:00 pm INFO: inserting data into table timerec
+06-08-2023 04:16:00 pm INFO: id: 7273
+06-08-2023 04:16:00 pm INFO: 8
+06-08-2023 04:16:01 pm INFO: 6
+06-08-2023 04:16:01 pm INFO: 2023
+06-08-2023 04:16:01 pm INFO: 0
+06-08-2023 04:16:01 pm INFO: 1
+06-08-2023 04:16:01 pm INFO: 16:16
+06-08-2023 04:16:01 pm INFO: null
+06-08-2023 04:16:01 pm INFO: 17
+06-08-2023 04:16:01 pm INFO: 1
+06-08-2023 04:16:01 pm INFO: .jpeg
+06-08-2023 04:16:01 pm INFO: executing for saving...
+06-08-2023 04:16:01 pm INFO: closing...
+06-08-2023 04:16:01 pm INFO: data has been successfully saved...
+06-08-2023 04:16:01 pm INFO: ===========================END=========================
+06-08-2023 04:17:06 pm INFO: checking for new added data
+06-08-2023 04:17:06 pm INFO: added new Data 
+06-08-2023 04:17:06 pm INFO: ===========================START=========================
+06-08-2023 04:17:06 pm INFO: inserting data into table timerec
+06-08-2023 04:17:06 pm INFO: id: 7274
+06-08-2023 04:17:06 pm INFO: 8
+06-08-2023 04:17:06 pm INFO: 6
+06-08-2023 04:17:06 pm INFO: 2023
+06-08-2023 04:17:06 pm INFO: 0
+06-08-2023 04:17:06 pm INFO: 2
+06-08-2023 04:17:06 pm INFO: 16:17
+06-08-2023 04:17:06 pm INFO: null
+06-08-2023 04:17:06 pm INFO: 17
+06-08-2023 04:17:06 pm INFO: 1
+06-08-2023 04:17:06 pm INFO: .jpeg
+06-08-2023 04:17:06 pm INFO: executing for saving...
+06-08-2023 04:17:06 pm INFO: closing...
+06-08-2023 04:17:06 pm INFO: data has been successfully saved...
+06-08-2023 04:17:06 pm INFO: ===========================END=========================
